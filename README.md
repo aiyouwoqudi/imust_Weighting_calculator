@@ -23,7 +23,7 @@
 
 5.打开**imust♥加权平均成绩计算器**
 
-![1588914973823](C:\Users\MaZongYang\AppData\Roaming\Typora\typora-user-images\1588914973823.png)
+![image](https://github.com/aiyouwoqudi/Sample_picture/blob/master/%E5%8A%A0%E6%9D%83/1588914973823.png)
 
 6.选择步骤四保存的文件路径
 

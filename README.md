@@ -8,15 +8,13 @@
 
 1.打开原始成绩excel界面
 
- ![image](https://github.com/aiyouwoqudi/Sample_picture/blob/master/%E5%8A%A0%E6%9D%83/clip_image004.jpg)
-
 2.选中非上学期课程(不参与测评的课程:重修成绩列)
 
 ![image](https://github.com/aiyouwoqudi/Sample_picture/blob/master/%E5%8A%A0%E6%9D%83/clip_image002.jpg)
 
 3.删除第二部选中的列
 
-![img]()
+![img](https://github.com/aiyouwoqudi/Sample_picture/blob/master/%E5%8A%A0%E6%9D%83/clip_image004.jpg)
 
 4.保存并退出
 

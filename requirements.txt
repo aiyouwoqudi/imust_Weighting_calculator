@@ -3,10 +3,8 @@ xlrd
 xlwt
 os
 time
-from progress.bar import Bar
-from tkinter import *
-from tkinter.filedialog import askdirectory
-from tkinter import filedialog
-from openpyxl import load_workbook
-from tkinter.filedialog import askopenfilename
-from PIL import Image,ImageTk
+progress.bar
+tkinter.filedialog
+openpyxl
+tkinter.filedialog
+PIL

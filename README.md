@@ -10,6 +10,7 @@
 依赖库：见requirements.txt
 
 使用步骤：
+
 1.打开原始成绩excel界面
 
 2.选中非上学期课程(不参与测评的课程:重修成绩列)
@@ -50,3 +51,7 @@
 8.待加载完成科根据控制台语句找到成绩文件
 
 ![img](https://github.com/aiyouwoqudi/Sample_picture/blob/master/%E5%8A%A0%E6%9D%83/clip_image014.jpg)
+
+
+作者：MZy
+联系邮箱：192037779@qq.com

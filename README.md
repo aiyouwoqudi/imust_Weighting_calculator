@@ -1,11 +1,13 @@
 ##                                             **imust♥加权平均成绩计算器**使用教程
 
-写在前面：推荐使用office系列中的excel打开修改成绩表
-
+写在前面：
+推荐使用office系列中的excel打开修改成绩表
+[office2016 简装](https://pan.baidu.com/s/1b27-djxnmSAFso0f4PtKnw) 提取码:mgey
 编写环境：python 3.6.0
 
 依赖库：见requirements.txt
 
+使用步骤：
 1.打开原始成绩excel界面
 
 2.选中非上学期课程(不参与测评的课程:重修成绩列)
